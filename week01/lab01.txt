@@ -20,3 +20,5 @@ drwxr-xr-x  2 galuh.octavia StafCS 4096 Feb 17 08:39 week09
 drwxr-xr-x  2 galuh.octavia StafCS 4096 Feb 17 08:40 week10
 drwxr-xr-x  2 galuh.octavia StafCS 4096 Feb 17 08:40 xtra
 /home/fasilkom/mahasiswa/g/galuh.octavia/os171/week01
+Today is 17 Feb 2017 Frit 09:10:57
+Today is 17 Feb 2017 Frit 09:12:03
