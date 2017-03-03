@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/g/galuh.octavia/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/4D1DB8B9 2017-02-24 [expires: 2017-08-23]
+uid                  Galuh Octavia Chrisdianti (ye) <galuh.octavia@ui.ac.id>
+sub   4096R/41C4104E 2017-02-24 [expires: 2017-08-23]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+

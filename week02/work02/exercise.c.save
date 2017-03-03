@@ -1,0 +1,17 @@
+/*
+ * Name: [YOUR_NAME]
+ * NPM: [YOUR_ NPM]
+ * Class: [YOUR_CLASS]
+ * Comment: [YOUR_COMMENT]
+ */
+
+#define LOOP 2 
+
+#include <stdio.h>
+
+void main() {
+	int input;
+
+	// TO DO implement me!!
+	for(inp; )
+}
